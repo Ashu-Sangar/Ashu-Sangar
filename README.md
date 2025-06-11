@@ -13,7 +13,9 @@ I’m a **Software Engineer** navigating the tech world with a strong focus on *
 I’m always excited to meet like-minded individuals, collaborate on new ideas, and learn from the tech community. Let’s connect and create something amazing!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ashu-sangar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ashu-sangar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -35,9 +37,9 @@ I’m always excited to meet like-minded individuals, collaborate on new ideas, 
 
 # LinkedIn
 - To see more about my prior work experience, check out my LinkedIn!
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ashu-sangar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo" />
   </a>
 </div>
 
