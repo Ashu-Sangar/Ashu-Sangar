@@ -34,9 +34,10 @@ I’m always excited to meet like-minded individuals, collaborate on new ideas, 
 ![Make.com](https://img.shields.io/badge/make.com-%23F25F1C.svg?style=for-the-badge&logo=make&logoColor=white)
 
 # LinkedIn
-<div align="center">
+- To see more about my prior work experience, check out my LinkedIn!
+<div align="left">
   <a href="https://www.linkedin.com/in/ashu-sangar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
-- To see more about my prior work experience, check out my [LinkedIn](https://www.linkedin.com/in/ashu-sangar)!
+
