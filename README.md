@@ -13,7 +13,7 @@ I’m a **Software Engineer** navigating the tech world with a strong focus on *
 I’m always excited to meet like-minded individuals, collaborate on new ideas, and learn from the tech community. Let’s connect and create something amazing!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ashu-sangar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
