@@ -69,13 +69,3 @@ I'm always excited to collaborate on innovative projects and connect with fellow
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="LinkedIn Profile" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-sangar/ashu-sangar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-sangar/ashu-sangar/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ashu-sangar/ashu-sangar/output/github-snake.svg" />
-  </picture>
-</div>
